@@ -2,7 +2,7 @@ var animal = 'dog'
 
 function myAnimal() {
   if (string === string.myAnimal())
-  return 
+  return "dog"
 }
 
 function yourAnimal() {
