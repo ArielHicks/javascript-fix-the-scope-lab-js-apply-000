@@ -1,7 +1,6 @@
 var animal = 'dog'
 
 function myAnimal(string) {
-  if (string === string.myAnimal())
   return "dog"
 }
 
